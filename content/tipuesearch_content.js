@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲:\xa0 https://github.com/mdewcm2023/site-yuguzl   \n 網站:  https://mdewcm2023.github.io/site-yuguzl \n', 'tags': '', 'url': 'About.html'}, {'title': '權限', 'text': '近端倉儲的設定檔案: 倉儲目錄下 .git 中的 config 代表倉儲的 configuration file (設定檔案)', 'tags': '', 'url': '權限.html'}]};
